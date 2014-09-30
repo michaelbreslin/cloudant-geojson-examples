@@ -8,6 +8,21 @@
           "marker-size": "large",
           "name": "Adam Fecadu"
         }
-      }
+      },
+      {
+      "geometry": {
+        "coordinates": [
+          114.109497,
+          22.396428
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "marker-size": "medium",
+        "providers": "Rackspace, Azure",
+        "location": "Hong Kong"
+      },
+      "type": "Feature"
+    }
     ]
   }
