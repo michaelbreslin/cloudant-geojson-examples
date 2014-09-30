@@ -1,33 +1,10 @@
-{
-  "_id": "afecadu@us.ibm.com",
-  "_rev": "5-9ad8325fafc6d83e8f0e8c37d5fcc294",
-  "name": "Adam Fecadu",
-  "title": "Technical Sales Manager",
-  "products": [
-    "Cloudant",
-    "Information Server",
-    "DB2",
-    "PDX",
-    "MDM",
-    "Guardium",
-    "Optim",
-    "BigInsights"
-  ],
-  "languages": [
-    "English"
-  ],
-  "geolocation": {
-    "coordinates": [
-      -122.18258,
-      37.880058
-    ],
-    "type": "point"
-  },
-  "address": {
-    "street": "63 Citron knoll",
-    "city": "Orinda",
-    "state": "CA",
-    "country": "USA"
-  },
-  "BluePages": "http://w3.ibm.com/bluepages/simpleSearch.wss?searchBy=Name&searchFor=adam%20fecadu"
-}
+ { 
+    "type": "FeatureCollection",
+    "features": [
+      { 
+        "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-122.18258, 37.880058]},
+        "properties": {"marker-size": "large"}
+      }
+    ]
+  }
