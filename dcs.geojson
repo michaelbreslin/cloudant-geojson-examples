@@ -106,6 +106,36 @@
         "location": "Dallas"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+-95.401291, 29.817178
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0050b0",
+        "providers": "SoftLayer",
+        "location": "Houston"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+-121.817413, 37.297016
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0050b0",
+        "providers": "SoftLayer",
+        "location": "San Jose"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"
