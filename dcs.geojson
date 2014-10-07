@@ -10,7 +10,8 @@
       },
       "properties": {
         "marker-size": "medium",
-        "providers": "Rackspace123",
+        "marker-color": "#ff0f00",
+        "providers": "Rackspace",
         "location": "Hong Kong"
       },
       "type": "Feature"
