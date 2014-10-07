@@ -10,7 +10,7 @@
       },
       "properties": {
         "marker-size": "medium",
-        "providers": "Rackspace,
+        "providers": "Rackspace",
         "location": "Hong Kong"
       },
       "type": "Feature"
