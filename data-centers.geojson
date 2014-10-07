@@ -10,7 +10,6 @@
       },
       "properties": {
         "marker-size": "medium",
-        "marker-color": "#ff0f00",
         "providers": "Rackspace,
         "location": "Hong Kong"
       },
