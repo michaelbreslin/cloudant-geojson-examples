@@ -181,6 +181,66 @@
         "location": "Washington, D.C."
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+4.898617, 52.374716
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0050b0",
+        "providers": "SoftLayer",
+        "location": "Amsterdam"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+-1.119894, 51.483552
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0050b0",
+        "providers": "SoftLayer",
+        "location": "London"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+114.227753, 22.516446
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0050b0",
+        "providers": "SoftLayer",
+        "location": "Hong Kong"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+103.845409, 1.314663
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0050b0",
+        "providers": "SoftLayer",
+        "location": "Singapore"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"
