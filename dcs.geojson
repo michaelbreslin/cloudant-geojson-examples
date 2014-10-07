@@ -136,6 +136,51 @@
         "location": "San Jose"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+-122.335906, 47.614848
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0050b0",
+        "providers": "SoftLayer",
+        "location": "Seattle"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+-79.377706, 43.718271
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0050b0",
+        "providers": "SoftLayer",
+        "location": "Toronto"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+-77.014567, 38.899349
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0050b0",
+        "providers": "SoftLayer",
+        "location": "Washington, D.C."
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"
