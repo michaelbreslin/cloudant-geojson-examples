@@ -91,6 +91,21 @@
         "location": "Northern Virginia"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+-96.74134, 32.830665
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0050b0",
+        "providers": "SoftLayer",
+        "location": "Dallas"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"
