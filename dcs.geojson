@@ -241,6 +241,127 @@
         "location": "Singapore"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+-78.484974, 38.040087
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#b58900",
+        "providers": "AWS",
+        "location": "US East (VA)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+-120.548374, 41.489515
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#b58900",
+        "providers": "AWS",
+        "location": "US West (CA)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+-123.9229, 46.173974
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#b58900",
+        "providers": "AWS",
+        "location": "US West (OR)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+-46.396284, -23.426557
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#b58900",
+        "providers": "AWS",
+        "location": "Sao Paulo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+-7.9133, 53.091399
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#b58900",
+        "providers": "AWS",
+        "location": "Ireland"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+1.814663, 103.345409
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#b58900",
+        "providers": "AWS",
+        "location": "Singapore"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+139.710388, 35.673343
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#b58900",
+        "providers": "AWS",
+        "location": "Tokyo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          151.922433,
+          -34.796923
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#b58900",
+        "providers": "AWS",
+        "location": "Sydney"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"
