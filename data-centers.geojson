@@ -10,7 +10,8 @@
       },
       "properties": {
         "marker-size": "medium",
-        "providers": "Rackspace, Azure",
+        "marker-color" "red",
+        "providers": "Rackspace,
         "location": "Hong Kong"
       },
       "type": "Feature"
