@@ -15,6 +15,82 @@
         "location": "Hong Kong"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          150.922433,
+          -33.796923
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#ff0f00",
+        "providers": "Rackspace",
+        "location": "Sydney"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+-0.101599, 51.528642
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#ff0f00",
+        "providers": "Rackspace",
+        "location": "London"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+-96.73134, 32.820665
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#ff0f00",
+        "providers": "Rackspace",
+        "location": "Dallas"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+-87.732155, 41.833733
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#ff0f00",
+        "providers": "Rackspace",
+        "location": "Chicago"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+-77.349061, 38.955582
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#ff0f00",
+        "providers": "Rackspace",
+        "location": "Northern Virginia"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"
