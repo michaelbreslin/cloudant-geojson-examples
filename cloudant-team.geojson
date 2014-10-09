@@ -32,6 +32,14 @@
           "marker-size": "small",
           "name": " Anuj Jain/New York/IBM"
         }
+      },
+      { 
+        "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-71.053111	42.359712]},
+        "properties": {
+          "marker-size": "large",
+          "name": "Brad Bonn/Cambridge/IBM, Claudius Li/Boston/IBM, Joseph P Cavanaugh/Waltham/IBM, Ryan Millay/Boston/IBM, Mike Breslin/Cambridge/IBM, Rob O'Brien/Cambridge/IBM"
+        }
       }
     ]
   }
