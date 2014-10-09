@@ -3,10 +3,10 @@
     "features": [
       { 
         "type": "Feature",
-        "geometry": {"type": "Point", "coordinates": [-122.18258, 37.880058]},
+        "geometry": {"type": "Point", "coordinates": [-122.4376, 37.7577]},
         "properties": {
-          "marker-size": "large",
-          "name": "Adam Fecadu"
+          "marker-size": "medium",
+          "name": " Brian K Ng/San Francisco/IBM,  Dwight H Ford/San Francisco/IBM"
         }
       }
     ]
