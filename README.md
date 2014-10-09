@@ -1,4 +1,4 @@
-cloudant-data-centers
+cloudant geojson examples
 =====================
 
-GeoJSON list of all Cloudant Data Centers
+GeoJSON list of Cloudant data centers and field engineers
