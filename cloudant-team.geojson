@@ -9,12 +9,28 @@
           "name": " Brian K Ng/San Francisco/IBM,  Dwight H Ford/San Francisco/IBM"
         }
       },
-       { 
+      { 
         "type": "Feature",
         "geometry": {"type": "Point", "coordinates": [-122.33458, 47.600504]},
         "properties": {
           "marker-size": "medium",
           "name": "  David Tyler/Seattle/IBM, Monica Maret/Seattle/IBM"
+        }
+      },
+      { 
+        "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-79.299538, 43.880739]},
+        "properties": {
+          "marker-size": "large",
+          "name": "  Christopher Bienko/Toronto/IBM, Mike Errington/Toronto/IBM, Mike Rioux/Toronto/IBM"
+        }
+      },
+      { 
+        "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-74.032275	40.746267]},
+        "properties": {
+          "marker-size": "small",
+          "name": " Anuj Jain/New York/IBM"
         }
       }
     ]
