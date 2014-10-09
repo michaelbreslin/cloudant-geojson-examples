@@ -8,6 +8,14 @@
           "marker-size": "medium",
           "name": " Brian K Ng/San Francisco/IBM,  Dwight H Ford/San Francisco/IBM"
         }
+      },
+       { 
+        "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [-122.33458, 47.600504]},
+        "properties": {
+          "marker-size": "medium",
+          "name": "  David Tyler/Seattle/IBM, Monica Maret/Seattle/IBM"
+        }
       }
     ]
   }
