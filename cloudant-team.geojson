@@ -72,7 +72,12 @@
             },
             "properties": {
                 "marker-size": "large",
-                "1": "Brad Bonn/Cambridge/IBM, Claudius Li/Boston/IBM, Joseph P Cavanaugh/Waltham/IBM, Ryan Millay/Boston/IBM, Mike Breslin/Cambridge/IBM, Rob O'Brien/Cambridge/IBM"
+                "1": "Brad Bonn/Cambridge/IBM",
+                "2": "Claudius Li/Boston/IBM",
+                "3": "Joseph P Cavanaugh/Waltham/IBM",
+                "4": "Ryan Millay/Boston/IBM",
+                "5": "Mike Breslin/Cambridge/IBM",
+                "6": "Rob O'Brien/Cambridge/IBM"
             }
         },
         {
