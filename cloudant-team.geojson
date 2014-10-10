@@ -137,6 +137,19 @@
                 "marker-size": "small",
                 "1": "TaeWan Kim/Korea/IBM"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   150.922433, -33.796923
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "1": "Aruna Kolluru/Australia/IBM"
+            }
         }
     ]
 }
