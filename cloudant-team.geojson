@@ -28,6 +28,48 @@
                 "marker-size": "medium",
                 "name": "David Tyler/Seattle/IBM, Monica Maret/Seattle/IBM"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.299538,
+                    43.880739
+                ]
+            },
+            "properties": {
+                "marker-size": "large",
+                "name": "  Christopher Bienko/Toronto/IBM, Mike Errington/Toronto/IBM, Mike Rioux/Toronto/IBM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.032275,
+                    40.746267
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "name": " Anuj Jain/New York/IBM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.053111,
+                    42.359711
+                ]
+            },
+            "properties": {
+                "marker-size": "large",
+                "name": "Brad Bonn/Cambridge/IBM, Claudius Li/Boston/IBM, Joseph P Cavanaugh/Waltham/IBM, Ryan Millay/Boston/IBM, Mike Breslin/Cambridge/IBM, Rob O'Brien/Cambridge/IBM"
+            }
         }
     ]
 }
