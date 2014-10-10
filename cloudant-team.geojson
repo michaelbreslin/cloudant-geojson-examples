@@ -90,7 +90,9 @@
             },
             "properties": {
                 "marker-size": "large",
-                "1": " Chris Snow/UK/IBM, Kent Kjaer/UK/IBM, Will Holley/UK/IBM"
+                "1": "Chris Snow/UK/IBM",
+                "2": "Kent Kjaer/UK/IBM",
+                "3": "Will Holley/UK/IBM"
             }
         },
         {
