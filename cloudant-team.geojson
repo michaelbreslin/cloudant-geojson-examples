@@ -111,6 +111,32 @@
                 "marker-size": "small",
                 "1": "Vamshi K Vattem/India/IBM"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.608255, 3.137984
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "1": "Vincent TS Ong/Malaysia/IBM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   126.98955, 37.5651
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "1": "TaeWan Kim/Korea/IBM"
+            }
         }
     ]
 }
