@@ -27,7 +27,8 @@
             },
             "properties": {
                 "marker-size": "medium",
-                "name": "David Tyler/Seattle/IBM, Monica Maret/Seattle/IBM"
+                "1": "David Tyler/Seattle/IBM",
+                "2": "Monica Maret/Seattle/IBM"
             }
         },
         {
@@ -55,7 +56,7 @@
             },
             "properties": {
                 "marker-size": "small",
-                "name": " Anuj Jain/New York/IBM"
+                "1": " Anuj Jain/New York/IBM"
             }
         },
         {
@@ -69,7 +70,7 @@
             },
             "properties": {
                 "marker-size": "large",
-                "name": "Brad Bonn/Cambridge/IBM, Claudius Li/Boston/IBM, Joseph P Cavanaugh/Waltham/IBM, Ryan Millay/Boston/IBM, Mike Breslin/Cambridge/IBM, Rob O'Brien/Cambridge/IBM"
+                "1": "Brad Bonn/Cambridge/IBM, Claudius Li/Boston/IBM, Joseph P Cavanaugh/Waltham/IBM, Ryan Millay/Boston/IBM, Mike Breslin/Cambridge/IBM, Rob O'Brien/Cambridge/IBM"
             }
         },
         {
@@ -82,7 +83,33 @@
             },
             "properties": {
                 "marker-size": "large",
-                "name": " Chris Snow/UK/IBM, Kent Kjaer/UK/IBM, Will Holley/UK/IBM"
+                "1": " Chris Snow/UK/IBM, Kent Kjaer/UK/IBM, Will Holley/UK/IBM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.177215, 48.779209
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "1": "Sebastian Moehn/Germany/IBM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.630939, 12.953997
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "1": "Vamshi K Vattem/India/IBM"
             }
         }
     ]
