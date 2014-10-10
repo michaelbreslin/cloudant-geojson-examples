@@ -71,6 +71,19 @@
                 "marker-size": "large",
                 "name": "Brad Bonn/Cambridge/IBM, Claudius Li/Boston/IBM, Joseph P Cavanaugh/Waltham/IBM, Ryan Millay/Boston/IBM, Mike Breslin/Cambridge/IBM, Rob O'Brien/Cambridge/IBM"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.590709, 51.468489
+                ]
+            },
+            "properties": {
+                "marker-size": "large",
+                "name": " Chris Snow/UK/IBM, Kent Kjaer/UK/IBM, Will Holley/UK/IBM"
+            }
         }
     ]
 }
