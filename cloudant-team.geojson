@@ -12,7 +12,6 @@
             },
             "properties": {
                 "marker-size": "medium",
-                "marker-color": "#0000CD",
                 "1": "Brian K Ng/San Francisco/IBM",
                 "2": "Dwight H Ford/San Francisco/IBM"
             }
@@ -159,6 +158,20 @@
             "properties": {
                 "marker-size": "small",
                 "1": "Aruna Kolluru/Australia/IBM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   -122.18258, 37.880058
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "marker-color": "#0000CD",
+                "1": "Adam Fecadu/San Francisco/IBM"
             }
         }
     ]
