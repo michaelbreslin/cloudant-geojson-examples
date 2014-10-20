@@ -173,6 +173,34 @@
                 "marker-color": "#0000CD",
                 "1": "Adam Fecadu/San Francisco/IBM"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   -77.416118, 38.959704
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "marker-color": "#0000CD",
+                "1": "Aman Singh/Falls Church/IBM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   139.787043, 35.678612
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "marker-color": "#0000CD",
+                "1": "Aiichiroh Noma/Japan/IBM"
+            }
         }
     ]
 }
