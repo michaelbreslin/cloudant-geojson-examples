@@ -12,6 +12,7 @@
             },
             "properties": {
                 "marker-size": "medium",
+                "marker-color": "#FFD700",
                 "1": "Brian K Ng/San Francisco/IBM",
                 "2": "Dwight H Ford/San Francisco/IBM"
             }
