@@ -201,6 +201,20 @@
                 "marker-color": "#0000CD",
                 "1": "Aiichiroh Noma/Japan/IBM"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   -73.547482, 40.786012
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "marker-color": "#0000CD",
+                "1": "Christopher Tsounis/Jericho/IBM"
+            }
         }
     ]
 }
