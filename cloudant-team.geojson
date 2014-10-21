@@ -558,6 +558,20 @@
                 "marker-color": "#0000CD",
                 "1": "Stein Petter Tronstad/Norway/IBM"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   -3.667217, 40.445155
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "marker-color": "#0000CD",
+                "1": "Raquel Cadierno Torre/Spain/IBM"
+            }
         }
     ]
 }
