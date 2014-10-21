@@ -243,6 +243,20 @@
                 "marker-color": "#0000CD",
                 "1": "Eynar Allan Espinoza Perez/Chile/IBM"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   -47.887323, -15.787031
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "marker-color": "#0000CD",
+                "1": "Fernando de Freitas Mangussi/Brazil/IBM"
+            }
         }
     ]
 }
