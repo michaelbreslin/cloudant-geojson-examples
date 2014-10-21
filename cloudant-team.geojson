@@ -414,6 +414,20 @@
                 "marker-color": "#0000CD",
                 "1": "Sam Zhang/China/IBM"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   -70.857802, 42.499958
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "marker-color": "#0000CD",
+                "1": "Stephen E Holt/White Plains/IBM"
+            }
         }
     ]
 }
