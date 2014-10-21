@@ -371,6 +371,20 @@
                 "marker-color": "#0000CD",
                 "1": "Carmen Perez/Dallas/IBM"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   -74.460817, 40.54564
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "marker-color": "#0000CD",
+                "1": "Richard T Phillips/Piscataway/IBM"
+            }
         }
     ]
 }
