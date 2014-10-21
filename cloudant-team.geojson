@@ -285,6 +285,20 @@
                 "marker-color": "#0000CD",
                 "1": "Marina Greenstein/White Plains/IBM"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   -79.334058, 43.818293
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "marker-color": "#0000CD",
+                "1": "Jimmy Tang/Markham/IBM"
+            }
         }
     ]
 }
