@@ -474,6 +474,34 @@
                 "marker-color": "#0000CD",
                 "1": "Whit Smith/Rochester/IBM"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   3.10058, 50.679294
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "marker-color": "#0000CD",
+                "1": "Vincent Bracq/France/IBM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   4.830027, 52.340807
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "marker-color": "#0000CD",
+                "1": "Marcel Berkhout/Netherlands/IBM"
+            }
         }
     ]
 }
