@@ -343,6 +343,20 @@
                 "marker-color": "#0000CD",
                 "1": "Michael A Aldrich/Jericho/IBM"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   -71.425252, 42.624248
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "marker-color": "#0000CD",
+                "1": "MOHAN NAGARAJAN/Waltham/IBM"
+            }
         }
     ]
 }
