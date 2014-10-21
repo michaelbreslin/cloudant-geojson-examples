@@ -457,6 +457,20 @@
                 "marker-color": "#0000CD",
                 "1": "Sam Marino/Tampa/IBM"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   -97.015008, 32.954569
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "marker-color": "#0000CD",
+                "1": "Whit Smith/Rochester/IBM"
+            }
         }
     ]
 }
