@@ -502,6 +502,20 @@
                 "marker-color": "#0000CD",
                 "1": "Marcel Berkhout/Netherlands/IBM"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   4.830027, 52.340807
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "marker-color": "#0000CD",
+                "1": "Michele Benedetti/Italy/IBM"
+            }
         }
     ]
 }
