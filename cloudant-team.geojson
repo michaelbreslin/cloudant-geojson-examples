@@ -357,6 +357,20 @@
                 "marker-color": "#0000CD",
                 "1": "MOHAN NAGARAJAN/Waltham/IBM"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   -97.743061, 30.267153
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "marker-color": "#0000CD",
+                "1": "Carmen Perez/Dallas/IBM"
+            }
         }
     ]
 }
