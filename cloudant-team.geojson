@@ -614,6 +614,20 @@
                 "marker-color": "#0000CD",
                 "1": "Mark Paver/UK/IBM"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   -1.399344, 51.025281
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "marker-color": "#0000CD",
+                "1": "Peter McCullagh/UK/IBM"
+            }
         }
     ]
 }
