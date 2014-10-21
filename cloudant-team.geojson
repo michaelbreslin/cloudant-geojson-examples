@@ -257,6 +257,20 @@
                 "marker-color": "#0000CD",
                 "1": "Fernando de Freitas Mangussi/Brazil/IBM"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   -99.238589, 19.396372
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "marker-color": "#0000CD",
+                "1": "Daniel Gonzalez/Mexico/IBM"
+            }
         }
     ]
 }
