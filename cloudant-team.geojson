@@ -271,6 +271,20 @@
                 "marker-color": "#0000CD",
                 "1": "Daniel Gonzalez/Mexico/IBM"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   -74.13181, 40.940376
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "marker-color": "#0000CD",
+                "1": "Marina Greenstein/White Plains/IBM"
+            }
         }
     ]
 }
