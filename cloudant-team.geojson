@@ -586,6 +586,20 @@
                 "marker-color": "#0000CD",
                 "1": "Simon Stickling/UK/IBM"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   18.42347, -33.923143
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "marker-color": "#0000CD",
+                "1": "Wolfgang Knupp/South Africa/IBM"
+            }
         }
     ]
 }
