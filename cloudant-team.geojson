@@ -530,6 +530,20 @@
                 "marker-color": "#0000CD",
                 "1": "Andreas Weininger/Germany/IBM"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   14.485415, 50.016623
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "marker-color": "#0000CD",
+                "1": "Filip Slanicka/Czech Republic/IBM"
+            }
         }
     ]
 }
