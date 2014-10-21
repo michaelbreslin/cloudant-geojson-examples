@@ -212,9 +212,10 @@
                 ]
             },
             "properties": {
-                "marker-size": "small",
+                "marker-size": "medium",
                 "marker-color": "#0000CD",
-                "1": "Christopher Tsounis/Jericho/IBM"
+                "1": "Christopher Tsounis/Jericho/IBM",
+                "2": "Steven J Tsounis/Jericho/IBM"
             }
         },
         {
