@@ -215,6 +215,34 @@
                 "marker-color": "#0000CD",
                 "1": "Christopher Tsounis/Jericho/IBM"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   -46.650166, -23.580637
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "marker-color": "#0000CD",
+                "1": "Danielle Moreira Hernandes Silva/Brazil/IBM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   -70.641997, -33.46912
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "marker-color": "#0000CD",
+                "1": "Eynar Allan Espinoza Perez/Chile/IBM"
+            }
         }
     ]
 }
