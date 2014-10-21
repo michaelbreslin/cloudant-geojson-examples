@@ -572,6 +572,20 @@
                 "marker-color": "#0000CD",
                 "1": "Raquel Cadierno Torre/Spain/IBM"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   -1.069966, 50.844451
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "marker-color": "#0000CD",
+                "1": "Simon Stickling/UK/IBM"
+            }
         }
     ]
 }
