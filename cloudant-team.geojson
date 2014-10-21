@@ -443,6 +443,20 @@
                 "marker-color": "#0000CD",
                 "1": "Scott Maberry/Riverside/IBM"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   -81.379236, 28.538336
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "marker-color": "#0000CD",
+                "1": "Sam Marino/Tampa/IBM"
+            }
         }
     ]
 }
