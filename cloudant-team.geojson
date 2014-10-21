@@ -508,13 +508,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                   4.830027, 52.340807
+                   9.279141, 45.463583
                 ]
             },
             "properties": {
                 "marker-size": "small",
                 "marker-color": "#0000CD",
                 "1": "Michele Benedetti/Italy/IBM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   11.67094, 48.13518
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "marker-color": "#0000CD",
+                "1": "Andreas Weininger/Germany/IBM"
             }
         }
     ]
