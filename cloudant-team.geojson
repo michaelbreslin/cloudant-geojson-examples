@@ -400,6 +400,20 @@
                 "marker-color": "#0000CD",
                 "1": "Roger L Eisentrager/Lenexa/IBM"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   113.405466, 22.961026
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "marker-color": "#0000CD",
+                "1": "Sam Zhang/China/IBM"
+            }
         }
     ]
 }
