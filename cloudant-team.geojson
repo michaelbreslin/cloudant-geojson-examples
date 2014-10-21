@@ -299,6 +299,20 @@
                 "marker-color": "#0000CD",
                 "1": "Jimmy Tang/Markham/IBM"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   -122.398305, 37.791187
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "marker-color": "#0000CD",
+                "1": "Mark Latondre/San Francisco/IBM"
+            }
         }
     ]
 }
