@@ -328,6 +328,20 @@
                 "1": "Lifang LF Liu/China/IBM",
                 "2": "Peng LP Li/China/IBM"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   -73.200669, 40.855931
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "marker-color": "#0000CD",
+                "1": "Michael A Aldrich/Jericho/IBM"
+            }
         }
     ]
 }
