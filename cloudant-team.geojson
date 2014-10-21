@@ -600,6 +600,20 @@
                 "marker-color": "#0000CD",
                 "1": "Wolfgang Knupp/South Africa/IBM"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   -2.326228, 53.423774
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "marker-color": "#0000CD",
+                "1": "Mark Paver/UK/IBM"
+            }
         }
     ]
 }
