@@ -627,7 +627,7 @@
             },
             "properties": {
                 "marker-size": "medium",
-                "marker-color": "#0000CD",
+                "marker-color": "#e3e3e3",
                 "1": "Peter McCullagh/UK/IBM",
                 "2": "Daniel Bell/UK/IBM",
                 "3": "Adrian Warman/UK/IBM"
@@ -643,7 +643,7 @@
             },
             "properties": {
                 "marker-size": "small",
-                "marker-color": "#0000CD",
+                "marker-color": "#e3e3e3",
                 "1": "Richard Killen/UK/IBM"
             }
         }
