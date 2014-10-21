@@ -629,6 +629,20 @@
                 "1": "Peter McCullagh/UK/IBM",
                 "2": "Daniel Bell/UK/IBM"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   -1.069966, 50.844451
+                ]
+            },
+            "properties": {
+                "marker-size": "small",
+                "marker-color": "#0000CD",
+                "1": "Richard Killen/UK/IBM"
+            }
         }
     ]
 }
