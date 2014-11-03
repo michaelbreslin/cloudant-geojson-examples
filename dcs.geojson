@@ -362,6 +362,22 @@
         "location": "Sydney"
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          8.636564,
+          50.121212
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#b58900",
+        "providers": "AWS",
+        "location": "Frankfurt"
+      },
+      "type": "Feature"
     }
   ],
   "type": "FeatureCollection"
