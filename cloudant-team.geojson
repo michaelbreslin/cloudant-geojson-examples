@@ -11,9 +11,8 @@
                 ]
             },
             "properties": {
-                "marker-size": "medium",
-                "1": "Brian K Ng/San Francisco/IBM",
-                "2": "Dwight H Ford/San Francisco/IBM"
+                "marker-size": "small",
+                "1": "Dwight H Ford/San Francisco/IBM"
             }
         },
         {
