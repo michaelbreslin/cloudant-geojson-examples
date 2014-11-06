@@ -41,9 +41,8 @@
             },
             "properties": {
                 "marker-size": "medium",
-                "1": "Christopher Bienko/Toronto/IBM",
-                "2": "Mike Errington/Toronto/IBM",
-                "3": "Mike Rioux/Toronto/IBM"
+                "1": "Mike Errington/Toronto/IBM",
+                "2": "Mike Rioux/Toronto/IBM"
             }
         },
         {
@@ -300,7 +299,8 @@
             "properties": {
                 "marker-size": "small",
                 "marker-color": "#c0c0c0",
-                "1": "Jimmy Tang/Markham/IBM"
+                "1": "Christopher Bienko/Toronto/IBM",
+                "2": "Jimmy Tang/Markham/IBM"
             }
         },
         {
