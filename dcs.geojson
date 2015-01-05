@@ -256,7 +256,22 @@
         "location": "Melbourne"
       },
       "type": "Feature"
-    },  
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+-99.1521845, 19.3200988
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0050b0",
+        "providers": "SoftLayer",
+        "location": "Mexico City"
+      },
+      "type": "Feature"
+    },
     {
       "geometry": {
         "coordinates": [
