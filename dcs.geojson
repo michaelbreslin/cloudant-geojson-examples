@@ -275,6 +275,21 @@
     {
       "geometry": {
         "coordinates": [
+139.7104, 35.6733
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#0050b0",
+        "providers": "SoftLayer",
+        "location": "Tokyo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
 2.3470599, 48.8588589
         ],
         "type": "Point"
