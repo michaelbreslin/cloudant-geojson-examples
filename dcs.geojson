@@ -395,21 +395,6 @@
     {
       "geometry": {
         "coordinates": [
-139.710388, 35.673343
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "marker-size": "small",
-        "marker-color": "#b58900",
-        "providers": "AWS",
-        "location": "Tokyo"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           151.922433,
           -34.796923
         ],
